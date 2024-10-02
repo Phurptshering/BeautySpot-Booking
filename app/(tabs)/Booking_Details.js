@@ -18,7 +18,7 @@ const BookingDetails = () => {
   const [duration, setDuration] = useState("10hrs 30mins");
   const [starttime, setStartime] = useState("11:00 AM ");
   const [endtime, setEndime] = useState("11:10 AM");
-  const [service, setService] = useState("PHUR TSHE");
+  const [service, setService] = useState("TSHE RING");
   const [sertype, setSerType] = useState("U-SHAPE");
   const [visible, setVisible] = useState(false);
 
